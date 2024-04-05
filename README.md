@@ -104,7 +104,7 @@ samples, guidance on mobile development, and a full API reference.
 <h1 align="left"></h1>
 
 
-<h3 align="center">6. Seven Task</h3>
+<h3 align="center">7. Seven Task</h3>
 
 <h1 align="left"></h1>
 
