@@ -116,3 +116,94 @@ samples, guidance on mobile development, and a full API reference.
 </div>
 
 <h1 align="left"></h1>
+
+
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+
+<h1 align="center">👉 Button Base Work 👈</h1>
+
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+<h3 align="center">1. First Task</h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/3.UI_lab_work/assets/148859956/cda31f2a-d3e2-4e94-bafa-77f12778d6b1" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/3.UI_lab_work/blob/master/lib/Button/button.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h1 align="left"></h1>
+
+
+<h3 align="center">2. Second Task</h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/3.UI_lab_work/assets/148859956/66d29363-87f7-4016-bca3-5acdb46eb3cb" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/3.UI_lab_work/blob/master/lib/Button/button2.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h1 align="left"></h1>
+
+
+<h3 align="center">3. Third Task</h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/3.UI_lab_work/assets/148859956/2cce13ae-b2e0-4f64-9e27-0a5241c3412f" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/3.UI_lab_work/blob/master/lib/Button/button3.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h1 align="left"></h1>
+
+
+<h3 align="center">4. Fourth Task</h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/3.UI_lab_work/assets/148859956/72d3699f-dbb0-4af1-9150-f26927920a7b" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/3.UI_lab_work/blob/master/lib/Button/button4.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h1 align="left"></h1>
+
+
+<h3 align="center">5. Fifth Task</h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/3.UI_lab_work/assets/148859956/68f384c5-4ffe-461f-b9ae-7bcb2d5fcdfd" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/3.UI_lab_work/blob/master/lib/Button/button5.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h1 align="left"></h1>
+
+
+<h3 align="center">7. Seventh Task</h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/3.UI_lab_work/assets/148859956/e9b71619-2b2f-4660-a600-22eaffe445b2" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/3.UI_lab_work/blob/master/lib/Button/button7.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h1 align="left"></h1>
