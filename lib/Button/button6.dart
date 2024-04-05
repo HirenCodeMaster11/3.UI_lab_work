@@ -54,10 +54,13 @@ void main() {
                 ),
               ),
               alignment: Alignment.center,
-              child: Text('✳',style: TextStyle(
-                color: Colors.red,
-                fontSize: 40,
-              ),),
+              child: Text(
+                '✴',
+                style: TextStyle(
+                  color: Colors.blue,
+                  fontSize: 40,
+                ),
+              ),
             ),
           ),
         ),
