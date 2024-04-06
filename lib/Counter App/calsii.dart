@@ -2,15 +2,15 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(CounterApp());
+  runApp(calsii());
 }
 
-class CounterApp extends StatelessWidget {
-  const CounterApp({super.key});
+class calsii extends StatelessWidget {
+  const calsii({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
       home: homePage(),
     );
@@ -30,29 +30,31 @@ class _homePageState extends State<homePage> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          leading: Icon(Icons.menu, color: Colors.white),
+          leading: const Icon(Icons.menu, color: Colors.white),
           centerTitle: true,
           title: const Text(
             'Calculator',
             style: TextStyle(
                 fontSize: 23, fontWeight: FontWeight.bold, color: Colors.white),
           ),
-          backgroundColor: Color(0xff54759E),
+          backgroundColor: const Color(0xff54759E),
         ),
         body: Column(
-          mainAxisAlignment: MainAxisAlignment.spaceAround,
-          crossAxisAlignment: CrossAxisAlignment.center,
           children: [
+            const SizedBox(height: 155,),
             Center(
-              child: Text('$count',style: TextStyle(
-                fontSize: 72,
-                fontWeight: FontWeight.bold,
-                color: Color(0xff9E9E9E),
-              ),),
+              child: Text(
+                '$count',
+                style: const TextStyle(
+                  fontSize: 76,
+                  fontWeight: FontWeight.bold,
+                  color: Color(0xff9E9E9E),
+                ),
+              ),
             ),
+            const SizedBox(height: 60),
             Row(
-              mainAxisAlignment: MainAxisAlignment.spaceAround,
-              crossAxisAlignment: CrossAxisAlignment.center,
+            mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
                 InkWell(
                   onTap: () {
@@ -102,9 +104,9 @@ class _homePageState extends State<homePage> {
                 ),
               ],
             ),
+            const SizedBox(height: 42,),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
-              crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 InkWell(
                   onTap: () {
@@ -154,9 +156,9 @@ class _homePageState extends State<homePage> {
                 ),
               ],
             ),
+            const SizedBox(height: 42,),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
-              crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 InkWell(
                   onTap: () {
