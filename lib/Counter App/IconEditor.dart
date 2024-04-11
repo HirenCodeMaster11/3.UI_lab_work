@@ -57,7 +57,7 @@ class _homePageState extends State<homePage> {
                   borderRadius: BorderRadius.all(Radius.circular(22)),
                 ),
                 child: Icon(
-                  Icons.chevron_right_sharp,
+                  selectIcon,
                   size: 120,
                   color: selectColor,
                 ),
@@ -183,4 +183,4 @@ List iconList = [
   Icons.call,
   Icons.search_rounded,
 ];
-Icon selectIcon = Icon(Icons.add);
+IconData selectIcon = Icons.add;
