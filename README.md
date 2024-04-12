@@ -337,3 +337,20 @@ samples, guidance on mobile development, and a full API reference.
 </div>
 
 <h1 align="left"></h1>
+
+
+<h3 align="center">7. Icon Editor </h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/3.UI_lab_work/assets/148859956/1035555c-f36e-425c-bb32-9d96b2231883" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/3.UI_lab_work/blob/master/lib/Counter%20App/IconEditor.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/3.UI_lab_work/blob/master/lib/Counter%20App/IconEditorComponant.dart">-> 📂 Go To Componant File 📂 <-</a>
+</div>
+
+<h1 align="left"></h1>
