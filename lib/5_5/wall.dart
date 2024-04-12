@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 import 'wall_udf.dart';
 
 void main() {
-  runApp(dynamicList());
+  runApp(wall());
 }
 
-class dynamicList extends StatelessWidget {
-  const dynamicList({super.key});
+class wall extends StatelessWidget {
+  const wall({super.key});
 
   @override
   Widget build(BuildContext context) {
