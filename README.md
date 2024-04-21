@@ -354,3 +354,52 @@ samples, guidance on mobile development, and a full API reference.
 </div>
 
 <h1 align="left"></h1>
+
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+
+<h1 align="center">👉 5.5 Lab Work 👈</h1>
+
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+<h3 align="center">1. BOLT </h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/3.UI_lab_work/assets/148859956/af739616-ee39-4c48-8660-355810fcf389" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/3.UI_lab_work/blob/master/lib/5_5/bolt.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h1 align="left"></h1>
+
+<h3 align="center">2. THE WALL </h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/3.UI_lab_work/assets/148859956/4e51403d-506b-4c3e-97ae-c62182508560" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/3.UI_lab_work/blob/master/lib/5_5/wall.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/3.UI_lab_work/blob/master/lib/5_5/wall_udf.dart">-> 📂 Go To Component File 📂 <-</a>
+</div>
+
+<h1 align="left"></h1>
+
+<h3 align="center">3. Splitter </h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/3.UI_lab_work/assets/148859956/47420405-23dd-4b98-ab00-82a60e33ff9f" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/3.UI_lab_work/blob/master/lib/5_5/splitter.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h1 align="left"></h1>
